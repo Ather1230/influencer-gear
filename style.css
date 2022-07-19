@@ -187,6 +187,7 @@ footer{
 }
 .content-items{
     flex-direction: column;
+    padding-top: 67px;
 }
 .copyright,.social-media{
     color: #FFFFFF;;
